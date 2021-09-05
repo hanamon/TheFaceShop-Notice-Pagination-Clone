@@ -326,37 +326,3 @@ $(function(){ //pageNation.js
 	});
 	
 }); //pageNation.js
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

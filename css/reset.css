@@ -25,12 +25,3 @@ header,main,footer,section,nav,aside{display:block;}
 	#skip>li{position:relative;width:100%;}
 	#skip>li>a{position:absolute;top:-200px;left:0;display:block;width:100%;font-size:0;padding:0;color:#fff;text-align:center;background:#000;}
 	#skip>li>a:focus{top:0;font-size:20px;padding:25px 0;}
-
-
-
-
-
-
-
-
-
